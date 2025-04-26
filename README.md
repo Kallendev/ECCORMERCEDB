@@ -20,13 +20,6 @@ Product images
 Our work includes an Entity-Relationship Diagram (ERD) and a complete SQL file for database creation and sample data insertion.
 
 👩‍💻 Team Members
-
-adeboye	bamkole	
-
-tolulope	ibiojo
-
-ben	otieno
-
 <table>
   <tr>
     <td align="center">
@@ -39,6 +32,12 @@ ben	otieno
       <a href="https://github.com/Kallendev">
         <img src="https://github.com/Kallendev.png" width="120px;" alt="Kallen Dev"/><br />
         <sub><b>Kallen Dev</b></sub>
+      </a>
+    </td>
+     <td align="center">
+      <a href="https://github.com/Ustineraph">
+        <img src="https://github.com/Ustineraph.png" width="120px;" alt="Kallen Dev"/><br />
+        <sub><b>Tolulope	Ibiojo</b></sub>
       </a>
     </td>
   </tr>
