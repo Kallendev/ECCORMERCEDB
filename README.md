@@ -20,6 +20,7 @@ Product images
 Our work includes an Entity-Relationship Diagram (ERD) and a complete SQL file for database creation and sample data insertion.
 
 👩‍💻 Team Members
+
 adeboye	bamkole	
 
 tolulope	ibiojo
