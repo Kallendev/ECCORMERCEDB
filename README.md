@@ -28,13 +28,19 @@ tolulope	ibiojo
 ben	otieno
 
 ## 👩‍💻 Team Members
- ![@Mnce0415](https://github.com/Mnce0415.png) 
- [Mncedisi France](https://github.com/Mnce0415) 
-
- 
- ![@Kallendev](https://github.com/Kallendev.png) 
- [Kallen Dev](https://github.com/Kallendev) 
-  
+<p align="center">
+  <a href="https://github.com/Mnce0415">
+    <img src="https://github.com/Mnce0415.png" width="100px;" alt="Mncedisi France"/>
+    <br />
+    <sub><b>Mncedisi France</b></sub>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Kallendev">
+    <img src="https://github.com/Kallendev.png" width="100px;" alt="Kallen Dev"/>
+    <br />
+    <sub><b>Kallen Dev</b></sub>
+  </a>
+</p>
 
 
 🗂️ Files in This Repository
